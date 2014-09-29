@@ -1,0 +1,104 @@
+md5sum=
+7f148bfe9d4cb809b81fc2887e3a7512
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+ssh: connect to host 192.168.0.211 port 22: No route to host
+lost connection
+md5sum=
+1ddb29c12637f5e7eda065436ac4e028
+md5sum=
+1ddb29c12637f5e7eda065436ac4e028
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 192.168.0.211 (192.168.0.211) 56(84) bytes of data.
+
+--- 192.168.0.211 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+ssh: connect to host 192.168.0.211 port 22: No route to host
+lost connection
+md5sum=
+1ddb29c12637f5e7eda065436ac4e028
+ssh: connect to host 192.168.0.211 port 22: No route to host
+lost connection
+md5sum=
+1ddb29c12637f5e7eda065436ac4e028
+ssh: connect to host 192.168.0.211 port 22: No route to host
+lost connection
+md5sum=
+1ddb29c12637f5e7eda065436ac4e028
+md5sum=
+1ddb29c12637f5e7eda065436ac4e028
+md5sum=
+1ddb29c12637f5e7eda065436ac4e028
+md5sum=
+90fe066c66e6c0bb506e199b4451f7e9
+mkdir: cannot create directory ‘/home/ubuntu/testing/logs_backup/logs_process’: No such file or directory
+mkdir: cannot create directory ‘/home/ubuntu/testing/logs_backup/logs_backup’: No such file or directory
+mkdir: cannot create directory ‘/home/ubuntu/testing/logs_backup/logs_failed’: No such file or directory

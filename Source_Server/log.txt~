@@ -1,0 +1,8 @@
+tar: raw_*_app1_db.log.rotated.*.log: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+tar: raw_*_app1_db.log.rotated.*.log: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+tar: raw_*_app1_db.log.rotated.*.log: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+tar: raw_*_app1_db.log.rotated.*.log: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors

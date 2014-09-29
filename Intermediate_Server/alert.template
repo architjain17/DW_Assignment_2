@@ -1,0 +1,6 @@
+Subject: Alert! {alertsubject}
+
+Source Server IP: {source_server_ip}
+Destination Server IP: {destination_server_ip}
+
+{alertmessage}

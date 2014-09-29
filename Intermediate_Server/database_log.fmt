@@ -1,0 +1,6 @@
+11.0
+4
+1       SQLCHAR             0       255     ","   1     activity                                 SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR             0       255     ","   2     status                                   SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR             0       19       ","   3     date_time                                SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR             0       255     "\n"   4     filename                                 SQL_Latin1_General_CP1_CI_AS

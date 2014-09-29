@@ -1,0 +1,1 @@
+mkdir: cannot create directory ‘{BASE_PATH}/logs_backup’: No such file or directory

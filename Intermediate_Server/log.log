@@ -1,0 +1,61 @@
+2014-08-29,16:01:37,severity level:3,logs_backup/logs_process/2014-08-26.tar.gz.split00,message: no internet connection found
+2014-08-29,16:01:43,severity level:3,logs_backup/logs_process/2014-08-26.tar.gz.split01,message: no internet connection found
+2014-08-29,16:01:49,severity level:3,logs_backup/logs_process/2014-08-26.tar.gz.split02,message: no internet connection found
+2014-08-29,16:01:55,severity level:3,logs_backup/logs_process/2014-08-26.tar.gz.split03,message: no internet connection found
+2014-08-29,16:22:32,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split00,message: no internet connection found
+2014-08-29,16:22:38,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split01,message: no internet connection found
+2014-08-29,16:22:44,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split02,message: no internet connection found
+2014-08-29,16:22:50,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split03,message: no internet connection found
+2014-08-29,16:22:57,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split04,message: no internet connection found
+2014-08-29,16:23:03,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split05,message: no internet connection found
+2014-08-29,16:23:09,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split06,message: no internet connection found
+2014-08-29,16:23:15,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split07,message: no internet connection found
+2014-08-29,16:23:21,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split08,message: no internet connection found
+2014-08-29,16:23:27,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split09,message: no internet connection found
+2014-08-29,16:23:33,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split10,message: no internet connection found
+2014-08-29,16:27:18,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split00,message: no internet connection found
+2014-08-29,16:29:54,severity level:3,logs_backup/logs_process/app12014-08-29.tar.gz.split00,message: no internet connection found
+2014-08-29,18:22:13,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split00,message: transferred successfully
+2014-08-29,18:22:13,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split01,message: transferred successfully
+2014-08-29,18:22:14,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split02,message: transferred successfully
+2014-08-29,18:22:14,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split03,message: transferred successfully
+2014-08-29,18:22:14,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split04,message: transferred successfully
+2014-08-29,18:22:15,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split05,message: transferred successfully
+2014-08-29,18:22:15,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split06,message: transferred successfully
+2014-08-29,18:22:15,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split07,message: transferred successfully
+2014-08-29,18:22:16,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split08,message: transferred successfully
+2014-08-29,18:22:16,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split09,message: transferred successfully
+2014-08-29,18:22:16,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split10,message: transferred successfully
+2014-08-29,18:40:34,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split00,message: transferred successfully
+2014-08-29,18:40:34,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split01,message: transferred successfully
+2014-08-29,18:40:34,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split02,message: transferred successfully
+2014-08-29,18:40:35,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split03,message: transferred successfully
+2014-08-29,18:40:35,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split04,message: transferred successfully
+2014-08-29,18:40:35,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split05,message: transferred successfully
+2014-08-29,18:40:36,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split06,message: transferred successfully
+2014-08-29,18:40:36,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split07,message: transferred successfully
+2014-08-29,18:40:36,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split08,message: transferred successfully
+2014-08-29,18:40:37,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split09,message: transferred successfully
+2014-08-29,18:40:37,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split10,message: transferred successfully
+2014-08-29,18:57:37,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split00,message: transferred successfully
+2014-08-29,18:57:38,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split01,message: transferred successfully
+2014-08-29,18:57:38,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split02,message: transferred successfully
+2014-08-29,18:57:38,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split03,message: transferred successfully
+2014-08-29,18:57:39,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split04,message: transferred successfully
+2014-08-29,18:57:39,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split05,message: transferred successfully
+2014-08-29,18:57:39,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split06,message: transferred successfully
+2014-08-29,18:57:40,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split07,message: transferred successfully
+2014-08-29,18:57:40,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split08,message: transferred successfully
+2014-08-29,18:57:40,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split09,message: transferred successfully
+2014-08-29,18:57:41,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-29.tar.gz.split10,message: transferred successfully
+2014-08-29,19:02:42,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split00,message: transferred successfully
+2014-08-29,19:02:43,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split01,message: transferred successfully
+2014-08-29,19:02:43,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split02,message: transferred successfully
+2014-08-29,19:02:43,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split03,message: transferred successfully
+2014-08-29,19:02:44,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split04,message: transferred successfully
+2014-08-29,19:02:44,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split05,message: transferred successfully
+2014-08-29,19:02:44,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split06,message: transferred successfully
+2014-08-29,19:02:45,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split07,message: transferred successfully
+2014-08-29,19:02:45,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split08,message: transferred successfully
+2014-08-29,19:02:46,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split09,message: transferred successfully
+2014-08-29,19:02:46,/home/ubuntu/testing/logs_backup/logs_process/app12014-08-291901.tar.gz.split10,message: transferred successfully

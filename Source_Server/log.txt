@@ -1,0 +1,69 @@
+md5sum=
+76562bf71ba316d0c56594b1911ac2e6
+ssh: connect to host 192.168.0.211 port 22: No route to host
+lost connection
+
+Starting copy...
+
+11 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 12     Average : (916.7 rows per sec.)
+md5sum=
+1ddb29c12637f5e7eda065436ac4e028
+ssh: connect to host 192.168.0.211 port 22: No route to host
+lost connection
+
+Starting copy...
+
+11 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 19     Average : (578.9 rows per sec.)
+mv: target ‘/home/ubuntu/testing/logs_shipping/’ is not a directory
+mv: cannot stat ‘/home/ubuntu/testing/logs_shipping/app12014-08-29.tar.gz’: No such file or directory
+mv: cannot stat ‘/home/ubuntu/testing/logs_shipping/app12014-08-29.tar.gz’: No such file or directory
+md5sum=
+split: cannot open ‘/home/ubuntu/testing/logs_process/app12014-08-29.tar.gz’ for reading: No such file or directory
+/home/ubuntu/testing/logs_process/app12014-08-29.tar.gz.txt: No such file or directory
+mv: cannot stat ‘/home/ubuntu/testing/logs_process/app12014-08-29.tar.gz.txt’: No such file or directory
+md5sum=
+74c3588aada840d1fb1d926cf9b58f64
+/home/ubuntu/testing/logs_process/app12014-08-29.tar.gz.txt: No such file or directory
+mv: cannot stat ‘/home/ubuntu/testing/logs_process/app12014-08-29.tar.gz.txt’: No such file or directory
+
+Starting copy...
+
+11 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 13     Average : (846.2 rows per sec.)
+md5sum=
+d934d31a4d3e7dd78f0438bf86240224
+
+Starting copy...
+
+11 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 12     Average : (916.7 rows per sec.)
+md5sum=
+e61132b48f67d6680f6910757fe343ce
+
+Starting copy...
+
+11 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 17     Average : (647.1 rows per sec.)
+md5sum=
+d3a03bddb49fa58ac140c3ee15ee81ad
+
+Starting copy...
+
+11 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 18     Average : (611.1 rows per sec.)
+md5sum=
+90fe066c66e6c0bb506e199b4451f7e9
+
+Starting copy...
+
+11 rows copied.
+Network packet size (bytes): 4096
+Clock Time (ms.) Total     : 11     Average : (1000.0 rows per sec.)

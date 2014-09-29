@@ -1,0 +1,9 @@
+10.0
+7
+1       SQLCHAR             0       255     ","   1     time                                     SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR             0       255     ","   2     ad_id                                    SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR             0       255     ","   3     width                                    SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR             0       255     ","   4     height                                   SQL_Latin1_General_CP1_CI_AS
+5       SQLCHAR             0       255     ","   5     profile_key                              SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR             0       255     ","   6     partner_channel_id                       SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR             0       255     "\n"   7     response_code                            SQL_Latin1_General_CP1_CI_AS

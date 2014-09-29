@@ -1,0 +1,7 @@
+Subject: Failure in Transfer
+
+Source Server IP: {source_server_ip}
+Intermediate Server IP: {intermediate_server_ip}
+
+Files failed while transfer:
+{failedfiles}

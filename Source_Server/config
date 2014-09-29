@@ -1,0 +1,32 @@
+# the source server name which will help to recognize the log files
+servername=app1
+
+# intermediate server IP address
+intermediate_server_ip=192.168.0.211
+
+# enter multiple email ids separated by a space
+server_admin_email_id=archit.jain@joshtechnologygroup.com
+
+# disk usage limit is in percentage
+disk_usage_alert_limit=75
+
+# size of one part of tar.gz file to be sent
+size_of_one_part=100000
+
+# local sql server ip address(for maintaining local log)
+local_sql_server_ip_address=192.168.0.66
+
+# local sql server username
+local_sql_server_username=archit
+
+# local sql server password
+local_sql_server_password=password
+
+# local sql server database name
+local_sql_server_database_name=database
+
+# logs folder location(give full path without slash at the end)
+base_path=/home/ubuntu/testing
+
+# intermediate server's logs folder location(give full path without slash at the end)
+scp_dest_path=~/logs

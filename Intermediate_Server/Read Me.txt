@@ -1,0 +1,12 @@
+"push_files.sh" is script to push files from source server to intermediate server
+"check_space.sh" is script to notify if disk space is getting low
+"config" is a file having configurable settings(instructions to edit can be found within the file itself)
+
+before running script please ensure that you have shared SSH key with intermediate server
+
+to setup mail server on your system please follow instructions on the following link
+http://jacmoe.dk/blog/2013/january/how-to-send-emails-with-msmtp-on-windows-or-linux-or-mac-os-x
+
+Note: you can keep "check_space.sh" script on any disk for which u want notification but also copy following files with it:
+-mail_notification.sh
+-alert.template

@@ -1,0 +1,8 @@
+# enter multiple email ids separated by a space
+server_admin_email_id=archit.jain@joshtechnologygroup.com
+
+# disk usage limit is in percentage
+disk_usage_alert_limit=75
+
+# logs folder location(give full path without slash at the end)
+base_path=/home/ubuntu/testing
